@@ -1,5 +1,7 @@
 eT5 모델  
 학습 후 모델 저장, 모델 불러와서 추가 학습 -> 반복  
+
+train data : AI허브 문서요약 텍스트(뉴스 텍스트)
   
 eT5 모델에 train_data 60000개 epochs 8씩 추가학습  
 1. train_data 60000 epochs 8
