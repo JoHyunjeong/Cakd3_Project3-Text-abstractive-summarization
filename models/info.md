@@ -14,14 +14,17 @@ ET5 모델에 train_data 60000개씩 epochs 8로 추가학습
 train_data 240000개 epochs 8 모델에 train_data 30000개 epochs 8로 추가학습  
 5. train_data 270000 epochs 8  
   
-train_data 270000 epochs 8 모델에 train_data 270000개 epochs4로 추가학습  
-6. train_data 270000 epochs 12  
+train_data 270000 epochs 8 모델에 train_data 270000개 epochs1로 4번 추가학습  
+6. train_data 270000 epochs 9  
+7. train_data 270000 epochs 10  
+8. train_data 270000 epochs 11  
+9. train_data 270000 epochs 12  
   
 train_data 270000 epochs 12 모델에 train_data 20000개 epochs12로 추가학습  
-7.train_data 290000 epochs 12  
+10.train_data 290000 epochs 12  
   
 train_data 270000 epochs 8 모델에 train_data 20000개 epochs8로 추가학습  
-8. train_data 290000 epochs 8  
+11. train_data 290000 epochs 8  
   
   
 google colab pro plus 사용  
